@@ -1,0 +1,15 @@
+Luas Segitiga Sembarang
+
+Algoritma : hitung_luas_segitiga sembarang
+
+Deklarasi :
+alas, tinggi, luas: int
+
+Deskripsi :
+print "Masukkan alas"
+read alas
+print "Masukkan tinggi"
+read tinggi
+luas = 1/2 * alas * tinggi
+print "Luas Segitiga Sembarang adalah "
+print luas 

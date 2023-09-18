@@ -1,0 +1,15 @@
+Luas Lingkaran
+
+Algoritma : hitung_luas_lingkaran
+
+Deklarasi :
+phi : 3.14
+r : int
+luas : double
+
+Deskripsi :
+print "Masukkan r"
+read r
+luas = phi * r * r
+print "Luas Lingkaran adalah "
+print luas 

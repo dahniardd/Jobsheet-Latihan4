@@ -1,0 +1,15 @@
+Keliling Lingkaran
+
+Algoritma : hitung_keliling_Lingkaran
+
+Deklarasi :
+phi : 3.14
+d : int
+keliling: double
+
+Deskripsi :
+print "Masukkan diameter"
+read d
+keliling = phi * d
+print "Keliling Lingkaran adalah "
+print keliling 

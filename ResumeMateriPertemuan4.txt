@@ -1,0 +1,53 @@
+Resume Materi Pertemuan Ke 4
+Tanggal : 18/9/2023
+
+~ Pseucode
+Pesudocode adalah deskripsi dari algoritma pemrograman komputer yang menggunakan notasi, hampir sama dengan kode 
+pemrograman tetapi tidak terikat oleh aturan yang baku dalam suatu bahasa pemrograman. Bisa menggunakan bahasa Indonesia
+atau bahasa inggris untuk perintah. 
+Pseudocode digunakan untuk menjelaskan langkah-langkah penyelesaian masalah yang mudah dipahami 
+oleh manusia bukan mesin.
+
+~ Penulisan Sintaks Pseudocode dikelompokkan menjadi 6 operasi dasar, yaitu :
+1. Menerima data (Input)
+    Sewaktu komputer menerima data atau input, maka perintah yang
+    biasa digunakan adalah "Read", "Get", atau "Baca" 
+ 
+2. Menampilkan data (Output)
+    Sewaktu komputer menampilkan data ataupun output, maka perintah
+    yang biasa digunakan adalah "Print", "Write", "Put", "Output", "Display", atau "Cetak"
+
+3. Menghitung data (Compute)
+    Untuk melakukan operasi aritmetika digunakan :
+        + Untuk penjumlahan (add)
+        - Untuk pengurangan (subtract)
+        * Untuk perkalian (multiply)
+        / Untuk pembagian (divide)
+        () Untuk kurung
+    Statement "Compute", "Calculate" ataupun "Hitung" juga dapat digunakan.
+
+4. Menyimpan data (Store)
+    Ada tiga cara untuk menyimpan data :
+        a. Memberikan nilai awal, menggunakan statement "Initialize" atau "Set"
+        b. Memberikan nilai sebagai hasil dari suatu proses, maka tanda "=" digunakan
+        c. Untuk menyimpan suatu nilai maka statement "Save" atau "Store" digunakan
+
+5. Membandingkan data (Compare)
+    Salah satu operasi terpenting yang dapat dilakukan komputer adalah
+    membandingkan dan memilih salah satu alternatif solusi.
+    Perintah yang digunakan : "IF", "THEN" dan "ELSE" atau "JIKA", "MAKA", "SELAIN ITU"
+
+6. Melakukan pengulangan (Loop)
+    Jika ada beberapa perintah yang harus diulang, maka dapat menggunakan
+    perintah "DOWHILE" dan "ENDDO"
+
+~ Flowchart
+    Flowchart merupakan sebuah bagan dengan simbol-simbol tertentu
+    yang digunakan untuk menjelaskan urutan proses dan hubungan
+    antar proses lainnya pada sebuah program atau cara penyajian dari suatu algoritma.
+
+~ Terdapat 2 macam Flowchart :
+    1. System Flowchart adalah urutan proses dalam system dengan menunjukkan alat media input, 
+       output serta jenis media penyimpanan dalam proses pengolahan data.
+    2. Program Flowchart adalah urutan instruksi yang digambarkan dengan
+       symbol tertentu untuk memecahkan masalah dalam suatu program.

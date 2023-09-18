@@ -1,0 +1,17 @@
+Keliling Segitiga Sembarang
+
+Algoritma : hitung_keliling_segitiga sembarang
+
+Deklarasi :
+sisi_a, sisi_b, sisi_c, keliling: int
+
+Deskripsi :
+print "Masukkan Panjang Sisi A"
+read panjang sisi A
+print "Masukkan Panjang Sisi B"
+read panjang sisi B
+print "Masukkan Panjang Sisi C"
+read panjang sisi C
+keliling = sisi_a + sisi_b + sisi_c
+print "Keliling Segitiga Sembarang adalah "
+print keliling
